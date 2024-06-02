@@ -1,1 +1,1 @@
-Hello, I'm @msaltanovskyy, I study different programming languages, development technologies. This account is where I post my work.
+Greetings, my main goal is to try out different languages, architectures for projecting. This is where I will post my work.
